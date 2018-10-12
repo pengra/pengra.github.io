@@ -1,11 +1,0 @@
---2018-10-09 23:09:05--  https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-0.3.5
-Resolving images.unsplash.com (images.unsplash.com)... 2a04:4e42:2d::188, 151.101.188.188
-Connecting to images.unsplash.com (images.unsplash.com)|2a04:4e42:2d::188|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 270340 (264K) [image/jpeg]
-Saving to: ‘photo-1523961131990-5ea7c61b2107?ixlib=rb-0.3.5’
-
-            photo-15239   0%[                                ]       0  --.-KB/s                          photo-152396  84%[=========================>      ] 222.47K  1.02MB/s               photo-1523961131990-5ea 100%[===============================>] 264.00K  1.08MB/s    in 0.2s    
-
-2018-10-09 23:09:05 (1.08 MB/s) - ‘photo-1523961131990-5ea7c61b2107?ixlib=rb-0.3.5’ saved [270340/270340]
-
